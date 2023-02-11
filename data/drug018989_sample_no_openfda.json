@@ -1,1 +1,761 @@
-{"meta": {"disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.", "terms": "https://open.fda.gov/terms/", "license": "https://open.fda.gov/license/", "last_updated": "2023-01-30", "results": {"skip": 0, "limit": 10, "total": 22714}}, "results": [{"safetyreportversion": "1", "safetyreportid": "10004874", "primarysourcecountry": "US", "occurcountry": "US", "transmissiondateformat": "102", "transmissiondate": "20141002", "reporttype": "1", "serious": "2", "receivedateformat": "102", "receivedate": "20140312", "receiptdateformat": "102", "receiptdate": "20140312", "fulfillexpeditecriteria": "2", "companynumb": "US-PFIZER INC-2014067506", "duplicate": "1", "reportduplicate": {"duplicatesource": "PFIZER", "duplicatenumb": "US-PFIZER INC-2014067506"}, "primarysource": {"reportercountry": "US", "qualification": "1"}, "sender": {"sendertype": "2", "senderorganization": "FDA-Public Use"}, "receiver": {"receivertype": "6", "receiverorganization": "FDA"}, "patient": {"patientonsetage": "69", "patientonsetageunit": "801", "patientweight": "79.3", "patientsex": "2", "reaction": [{"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Drug hypersensitivity", "reactionoutcome": "6"}], "drug": [{"drugcharacterization": "1", "medicinalproduct": "LIPITOR", "drugauthorizationnumb": "020702", "drugdosagetext": "UNK", "drugdosageform": "FILM-COATED TABLET", "actiondrug": "5"}, {"drugcharacterization": "1", "medicinalproduct": "IBUPROFEN", "drugauthorizationnumb": "018989", "drugdosagetext": "UNK", "actiondrug": "5"}]}}, {"safetyreportversion": "1", "safetyreportid": "10006370", "primarysourcecountry": "FR", "occurcountry": "FR", "transmissiondateformat": "102", "transmissiondate": "20141002", "reporttype": "1", "serious": "1", "seriousnesshospitalization": "1", "seriousnessother": "1", "receivedateformat": "102", "receivedate": "20140313", "receiptdateformat": "102", "receiptdate": "20140313", "fulfillexpeditecriteria": "1", "companynumb": "FR-PFIZER INC-2014069352", "duplicate": "1", "reportduplicate": {"duplicatesource": "PFIZER", "duplicatenumb": "FR-PFIZER INC-2014069352"}, "primarysource": {"reportercountry": "FR", "qualification": "3"}, "sender": {"sendertype": "2", "senderorganization": "FDA-Public Use"}, "receiver": {"receivertype": "6", "receiverorganization": "FDA"}, "patient": {"patientonsetage": "68", "patientonsetageunit": "801", "patientsex": "1", "reaction": [{"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "International normalised ratio increased", "reactionoutcome": "1"}, {"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Epistaxis", "reactionoutcome": "1"}, {"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Asthenia", "reactionoutcome": "6"}, {"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Dyspnoea", "reactionoutcome": "6"}, {"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Filariasis", "reactionoutcome": "6"}, {"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Pneumococcal infection", "reactionoutcome": "6"}, {"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Pleural effusion", "reactionoutcome": "6"}, {"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Purulent discharge", "reactionoutcome": "6"}, {"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Benign oesophageal neoplasm", "reactionoutcome": "6"}, {"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Cholestasis", "reactionoutcome": "6"}, {"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Hepatocellular injury", "reactionoutcome": "6"}, {"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Hypoalbuminaemia", "reactionoutcome": "6"}], "drug": [{"drugcharacterization": "1", "medicinalproduct": "ADVIL", "drugauthorizationnumb": "018989", "drugdosagetext": "UNK", "drugstartdateformat": "102", "drugstartdate": "20140215", "drugenddateformat": "102", "drugenddate": "20140223"}, {"drugcharacterization": "1", "medicinalproduct": "PREVISCAN", "drugstructuredosagenumb": "10", "drugstructuredosageunit": "003", "drugseparatedosagenumb": "1", "drugintervaldosageunitnumb": "1", "drugintervaldosagedefinition": "804", "drugdosagetext": "10 MG, 1X/DAY", "drugindication": "ARRHYTHMIA", "drugenddateformat": "102", "drugenddate": "20140224"}, {"drugcharacterization": "2", "medicinalproduct": "METFORMIN"}, {"drugcharacterization": "2", "medicinalproduct": "DIAMICRON"}, {"drugcharacterization": "2", "medicinalproduct": "CARDENSIEL"}, {"drugcharacterization": "2", "medicinalproduct": "ESIDREX"}, {"drugcharacterization": "2", "medicinalproduct": "COVERSYL"}, {"drugcharacterization": "2", "medicinalproduct": "AMLOR"}, {"drugcharacterization": "2", "medicinalproduct": "EUPRESSYL"}, {"drugcharacterization": "2", "medicinalproduct": "HEMIGOXINE"}, {"drugcharacterization": "2", "medicinalproduct": "PRAVADUAL"}]}}, {"safetyreportversion": "1", "safetyreportid": "10006649", "primarysourcecountry": "US", "occurcountry": "US", "transmissiondateformat": "102", "transmissiondate": "20141002", "reporttype": "1", "serious": "2", "receivedateformat": "102", "receivedate": "20140313", "receiptdateformat": "102", "receiptdate": "20140313", "fulfillexpeditecriteria": "2", "companynumb": "US-PFIZER INC-2014068557", "duplicate": "1", "reportduplicate": {"duplicatesource": "PFIZER", "duplicatenumb": "US-PFIZER INC-2014068557"}, "primarysource": {"reportercountry": "US", "qualification": "5"}, "sender": {"sendertype": "2", "senderorganization": "FDA-Public Use"}, "receiver": {"receivertype": "6", "receiverorganization": "FDA"}, "patient": {"patientonsetage": "84", "patientonsetageunit": "801", "patientweight": "72.56", "patientsex": "2", "reaction": [{"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Drug effect incomplete", "reactionoutcome": "6"}], "drug": [{"drugcharacterization": "1", "medicinalproduct": "ADVIL", "drugauthorizationnumb": "018989", "drugdosagetext": "UNK", "drugindication": "PAIN", "actiondrug": "5"}]}}, {"safetyreportversion": "1", "safetyreportid": "10006677", "primarysourcecountry": "US", "occurcountry": "US", "transmissiondateformat": "102", "transmissiondate": "20141002", "reporttype": "1", "serious": "2", "receivedateformat": "102", "receivedate": "20140313", "receiptdateformat": "102", "receiptdate": "20140313", "fulfillexpeditecriteria": "2", "companynumb": "US-PFIZER INC-2014068440", "duplicate": "1", "reportduplicate": {"duplicatesource": "PFIZER", "duplicatenumb": "US-PFIZER INC-2014068440"}, "primarysource": {"reportercountry": "US", "qualification": "5"}, "sender": {"sendertype": "2", "senderorganization": "FDA-Public Use"}, "receiver": {"receivertype": "6", "receiverorganization": "FDA"}, "patient": {"patientonsetage": "73", "patientonsetageunit": "801", "patientweight": "49.89", "patientsex": "2", "reaction": [{"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Dysgeusia", "reactionoutcome": "6"}, {"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Product taste abnormal", "reactionoutcome": "6"}], "drug": [{"drugcharacterization": "1", "medicinalproduct": "ADVIL", "drugbatchnumb": "H3154H", "drugauthorizationnumb": "018989", "drugstructuredosagenumb": "200", "drugstructuredosageunit": "003", "drugseparatedosagenumb": "1", "drugintervaldosageunitnumb": "2", "drugintervaldosagedefinition": "804", "drugdosagetext": "200 MG, EVERY OTHER NIGHT", "drugdosageform": "TABLET", "drugadministrationroute": "048", "drugindication": "PAIN", "drugstartdateformat": "602", "drugstartdate": "2013", "actiondrug": "4"}]}}, {"safetyreportversion": "1", "safetyreportid": "10007157", "primarysourcecountry": "US", "occurcountry": "US", "transmissiondateformat": "102", "transmissiondate": "20141002", "reporttype": "1", "serious": "2", "receivedateformat": "102", "receivedate": "20140313", "receiptdateformat": "102", "receiptdate": "20140313", "fulfillexpeditecriteria": "2", "companynumb": "US-PFIZER INC-2014068655", "duplicate": "1", "reportduplicate": {"duplicatesource": "PFIZER", "duplicatenumb": "US-PFIZER INC-2014068655"}, "primarysource": {"reportercountry": "US", "qualification": "5"}, "sender": {"sendertype": "2", "senderorganization": "FDA-Public Use"}, "receiver": {"receivertype": "6", "receiverorganization": "FDA"}, "patient": {"patientsex": "2", "reaction": [{"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Insomnia", "reactionoutcome": "6"}], "drug": [{"drugcharacterization": "1", "medicinalproduct": "ADVIL", "drugauthorizationnumb": "018989", "drugdosagetext": "UNK", "actiondrug": "5"}]}}, {"safetyreportversion": "2", "safetyreportid": "10007445", "primarysourcecountry": "GB", "occurcountry": "GB", "transmissiondateformat": "102", "transmissiondate": "20141002", "reporttype": "2", "serious": "1", "seriousnesshospitalization": "1", "receivedateformat": "102", "receivedate": "20140313", "receiptdateformat": "102", "receiptdate": "20140321", "fulfillexpeditecriteria": "1", "companynumb": "GB-PFIZER INC-2014064320", "duplicate": "1", "reportduplicate": {"duplicatesource": "PFIZER", "duplicatenumb": "GB-PFIZER INC-2014064320"}, "primarysource": {"reportercountry": "GB", "qualification": "1"}, "sender": {"sendertype": "2", "senderorganization": "FDA-Public Use"}, "receiver": {"receivertype": "6", "receiverorganization": "FDA"}, "patient": {"patientonsetage": "80", "patientonsetageunit": "801", "patientsex": "1", "reaction": [{"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Gastroenteritis viral", "reactionoutcome": "1"}], "drug": [{"drugcharacterization": "1", "medicinalproduct": "IBUPROFEN", "drugauthorizationnumb": "018989", "drugstructuredosagenumb": "200", "drugstructuredosageunit": "003", "drugseparatedosagenumb": "3", "drugintervaldosageunitnumb": "1", "drugintervaldosagedefinition": "804", "drugdosagetext": "200 MG, 3X/DAY", "drugadministrationroute": "048", "drugindication": "RHEUMATOID ARTHRITIS", "drugstartdateformat": "102", "drugstartdate": "20100426", "actiondrug": "4"}]}}, {"safetyreportversion": "1", "safetyreportid": "10012283", "primarysourcecountry": "US", "occurcountry": "US", "transmissiondateformat": "102", "transmissiondate": "20141002", "reporttype": "1", "serious": "2", "receivedateformat": "102", "receivedate": "20140312", "receiptdateformat": "102", "receiptdate": "20140312", "fulfillexpeditecriteria": "2", "companynumb": "US-PFIZER INC-2014066675", "duplicate": "1", "reportduplicate": {"duplicatesource": "PFIZER", "duplicatenumb": "US-PFIZER INC-2014066675"}, "primarysource": {"reportercountry": "US", "qualification": "5"}, "sender": {"sendertype": "2", "senderorganization": "FDA-Public Use"}, "receiver": {"receivertype": "6", "receiverorganization": "FDA"}, "patient": {"patientsex": "1", "reaction": [{"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Oropharyngeal pain", "reactionoutcome": "3"}, {"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Abdominal pain upper", "reactionoutcome": "3"}, {"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Dyspepsia", "reactionoutcome": "3"}], "drug": [{"drugcharacterization": "1", "medicinalproduct": "ADVIL", "drugauthorizationnumb": "018989", "drugstructuredosagenumb": "2", "drugstructuredosageunit": "032", "drugdosagetext": "TWO FILM-COATED, UNK", "drugdosageform": "TABLET", "drugstartdateformat": "102", "drugstartdate": "20140301", "actiondrug": "5"}]}}, {"safetyreportversion": "1", "safetyreportid": "10012430", "primarysourcecountry": "US", "occurcountry": "US", "transmissiondateformat": "102", "transmissiondate": "20141002", "reporttype": "1", "serious": "2", "receivedateformat": "102", "receivedate": "20140312", "receiptdateformat": "102", "receiptdate": "20140312", "fulfillexpeditecriteria": "2", "companynumb": "US-PFIZER INC-2014067799", "duplicate": "1", "reportduplicate": {"duplicatesource": "PFIZER", "duplicatenumb": "US-PFIZER INC-2014067799"}, "primarysource": {"reportercountry": "US", "qualification": "5"}, "sender": {"sendertype": "2", "senderorganization": "FDA-Public Use"}, "receiver": {"receivertype": "6", "receiverorganization": "FDA"}, "patient": {"patientonsetage": "73", "patientonsetageunit": "801", "patientweight": "81.63", "patientsex": "2", "reaction": [{"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Drug ineffective", "reactionoutcome": "6"}, {"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Arthritis", "reactionoutcome": "6"}, {"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Thyroid disorder", "reactionoutcome": "6"}], "drug": [{"drugcharacterization": "1", "medicinalproduct": "IBUPROFEN", "drugauthorizationnumb": "018989", "drugstructuredosagenumb": "800", "drugstructuredosageunit": "003", "drugdosagetext": "800 MG, UNK", "drugindication": "ARTHRITIS", "actiondrug": "1"}, {"drugcharacterization": "1", "medicinalproduct": "IBUPROFEN", "drugauthorizationnumb": "018989", "drugdosagetext": "UNK", "drugindication": "SPONDYLITIS", "drugenddateformat": "602", "drugenddate": "2014", "actiondrug": "1"}, {"drugcharacterization": "2", "medicinalproduct": "XANAX", "drugdosagetext": "UNK, AS NEEDED", "drugindication": "ANXIETY"}]}}, {"safetyreportversion": "1", "safetyreportid": "10012515", "primarysourcecountry": "US", "occurcountry": "US", "transmissiondateformat": "102", "transmissiondate": "20141002", "reporttype": "1", "serious": "2", "receivedateformat": "102", "receivedate": "20140312", "receiptdateformat": "102", "receiptdate": "20140312", "fulfillexpeditecriteria": "2", "companynumb": "US-PFIZER INC-2014068693", "duplicate": "1", "reportduplicate": {"duplicatesource": "PFIZER", "duplicatenumb": "US-PFIZER INC-2014068693"}, "primarysource": {"reportercountry": "US", "qualification": "5"}, "sender": {"sendertype": "2", "senderorganization": "FDA-Public Use"}, "receiver": {"receivertype": "6", "receiverorganization": "FDA"}, "patient": {"patientsex": "2", "reaction": [{"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Malaise", "reactionoutcome": "6"}], "drug": [{"drugcharacterization": "1", "medicinalproduct": "ADVIL", "drugauthorizationnumb": "018989", "drugdosagetext": "UNK", "drugindication": "DENTAL CARE", "drugstartdateformat": "102", "drugstartdate": "20140307", "actiondrug": "5"}, {"drugcharacterization": "1", "medicinalproduct": "LORATADINE", "drugauthorizationnumb": "021375", "drugdosagetext": "UNK", "drugindication": "HYPERSENSITIVITY", "actiondrug": "5"}]}}, {"safetyreportversion": "1", "safetyreportid": "10012763", "primarysourcecountry": "US", "occurcountry": "US", "transmissiondateformat": "102", "transmissiondate": "20141002", "reporttype": "1", "serious": "1", "seriousnessother": "1", "receivedateformat": "102", "receivedate": "20140314", "receiptdateformat": "102", "receiptdate": "20140314", "fulfillexpeditecriteria": "1", "companynumb": "US-PFIZER INC-2014070828", "duplicate": "1", "reportduplicate": {"duplicatesource": "PFIZER", "duplicatenumb": "US-PFIZER INC-2014070828"}, "primarysource": {"reportercountry": "US", "qualification": "5"}, "sender": {"sendertype": "2", "senderorganization": "FDA-Public Use"}, "receiver": {"receivertype": "6", "receiverorganization": "FDA"}, "patient": {"patientonsetage": "71", "patientonsetageunit": "801", "patientweight": "77.1", "patientsex": "2", "reaction": [{"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Back disorder", "reactionoutcome": "6"}, {"reactionmeddraversionpt": "17.0", "reactionmeddrapt": "Procedural pain", "reactionoutcome": "6"}], "drug": [{"drugcharacterization": "1", "medicinalproduct": "ADVIL", "drugauthorizationnumb": "018989", "drugdosagetext": "UNK", "drugdosageform": "TABLET", "drugindication": "HEADACHE", "actiondrug": "5"}]}}]}
+{
+    "meta": {
+        "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+        "terms": "https://open.fda.gov/terms/",
+        "license": "https://open.fda.gov/license/",
+        "last_updated": "2023-01-30",
+        "results": {
+            "skip": 0,
+            "limit": 10,
+            "total": 22714
+        }
+    },
+    "results": [
+        {
+            "safetyreportversion": "1",
+            "safetyreportid": "10004874",
+            "primarysourcecountry": "US",
+            "occurcountry": "US",
+            "transmissiondateformat": "102",
+            "transmissiondate": "20141002",
+            "reporttype": "1",
+            "serious": "2",
+            "receivedateformat": "102",
+            "receivedate": "20140312",
+            "receiptdateformat": "102",
+            "receiptdate": "20140312",
+            "fulfillexpeditecriteria": "2",
+            "companynumb": "US-PFIZER INC-2014067506",
+            "duplicate": "1",
+            "reportduplicate": {
+                "duplicatesource": "PFIZER",
+                "duplicatenumb": "US-PFIZER INC-2014067506"
+            },
+            "primarysource": {
+                "reportercountry": "US",
+                "qualification": "1"
+            },
+            "sender": {
+                "sendertype": "2",
+                "senderorganization": "FDA-Public Use"
+            },
+            "receiver": {
+                "receivertype": "6",
+                "receiverorganization": "FDA"
+            },
+            "patient": {
+                "patientonsetage": "69",
+                "patientonsetageunit": "801",
+                "patientweight": "79.3",
+                "patientsex": "2",
+                "reaction": [
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Drug hypersensitivity",
+                        "reactionoutcome": "6"
+                    }
+                ],
+                "drug": [
+                    {
+                        "drugcharacterization": "1",
+                        "medicinalproduct": "LIPITOR",
+                        "drugauthorizationnumb": "020702",
+                        "drugdosagetext": "UNK",
+                        "drugdosageform": "FILM-COATED TABLET",
+                        "actiondrug": "5"
+                    },
+                    {
+                        "drugcharacterization": "1",
+                        "medicinalproduct": "IBUPROFEN",
+                        "drugauthorizationnumb": "018989",
+                        "drugdosagetext": "UNK",
+                        "actiondrug": "5"
+                    }
+                ]
+            }
+        },
+        {
+            "safetyreportversion": "1",
+            "safetyreportid": "10006370",
+            "primarysourcecountry": "FR",
+            "occurcountry": "FR",
+            "transmissiondateformat": "102",
+            "transmissiondate": "20141002",
+            "reporttype": "1",
+            "serious": "1",
+            "seriousnesshospitalization": "1",
+            "seriousnessother": "1",
+            "receivedateformat": "102",
+            "receivedate": "20140313",
+            "receiptdateformat": "102",
+            "receiptdate": "20140313",
+            "fulfillexpeditecriteria": "1",
+            "companynumb": "FR-PFIZER INC-2014069352",
+            "duplicate": "1",
+            "reportduplicate": {
+                "duplicatesource": "PFIZER",
+                "duplicatenumb": "FR-PFIZER INC-2014069352"
+            },
+            "primarysource": {
+                "reportercountry": "FR",
+                "qualification": "3"
+            },
+            "sender": {
+                "sendertype": "2",
+                "senderorganization": "FDA-Public Use"
+            },
+            "receiver": {
+                "receivertype": "6",
+                "receiverorganization": "FDA"
+            },
+            "patient": {
+                "patientonsetage": "68",
+                "patientonsetageunit": "801",
+                "patientsex": "1",
+                "reaction": [
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "International normalised ratio increased",
+                        "reactionoutcome": "1"
+                    },
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Epistaxis",
+                        "reactionoutcome": "1"
+                    },
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Asthenia",
+                        "reactionoutcome": "6"
+                    },
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Dyspnoea",
+                        "reactionoutcome": "6"
+                    },
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Filariasis",
+                        "reactionoutcome": "6"
+                    },
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Pneumococcal infection",
+                        "reactionoutcome": "6"
+                    },
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Pleural effusion",
+                        "reactionoutcome": "6"
+                    },
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Purulent discharge",
+                        "reactionoutcome": "6"
+                    },
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Benign oesophageal neoplasm",
+                        "reactionoutcome": "6"
+                    },
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Cholestasis",
+                        "reactionoutcome": "6"
+                    },
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Hepatocellular injury",
+                        "reactionoutcome": "6"
+                    },
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Hypoalbuminaemia",
+                        "reactionoutcome": "6"
+                    }
+                ],
+                "drug": [
+                    {
+                        "drugcharacterization": "1",
+                        "medicinalproduct": "ADVIL",
+                        "drugauthorizationnumb": "018989",
+                        "drugdosagetext": "UNK",
+                        "drugstartdateformat": "102",
+                        "drugstartdate": "20140215",
+                        "drugenddateformat": "102",
+                        "drugenddate": "20140223"
+                    },
+                    {
+                        "drugcharacterization": "1",
+                        "medicinalproduct": "PREVISCAN",
+                        "drugstructuredosagenumb": "10",
+                        "drugstructuredosageunit": "003",
+                        "drugseparatedosagenumb": "1",
+                        "drugintervaldosageunitnumb": "1",
+                        "drugintervaldosagedefinition": "804",
+                        "drugdosagetext": "10 MG, 1X/DAY",
+                        "drugindication": "ARRHYTHMIA",
+                        "drugenddateformat": "102",
+                        "drugenddate": "20140224"
+                    },
+                    {
+                        "drugcharacterization": "2",
+                        "medicinalproduct": "METFORMIN"
+                    },
+                    {
+                        "drugcharacterization": "2",
+                        "medicinalproduct": "DIAMICRON"
+                    },
+                    {
+                        "drugcharacterization": "2",
+                        "medicinalproduct": "CARDENSIEL"
+                    },
+                    {
+                        "drugcharacterization": "2",
+                        "medicinalproduct": "ESIDREX"
+                    },
+                    {
+                        "drugcharacterization": "2",
+                        "medicinalproduct": "COVERSYL"
+                    },
+                    {
+                        "drugcharacterization": "2",
+                        "medicinalproduct": "AMLOR"
+                    },
+                    {
+                        "drugcharacterization": "2",
+                        "medicinalproduct": "EUPRESSYL"
+                    },
+                    {
+                        "drugcharacterization": "2",
+                        "medicinalproduct": "HEMIGOXINE"
+                    },
+                    {
+                        "drugcharacterization": "2",
+                        "medicinalproduct": "PRAVADUAL"
+                    }
+                ]
+            }
+        },
+        {
+            "safetyreportversion": "1",
+            "safetyreportid": "10006649",
+            "primarysourcecountry": "US",
+            "occurcountry": "US",
+            "transmissiondateformat": "102",
+            "transmissiondate": "20141002",
+            "reporttype": "1",
+            "serious": "2",
+            "receivedateformat": "102",
+            "receivedate": "20140313",
+            "receiptdateformat": "102",
+            "receiptdate": "20140313",
+            "fulfillexpeditecriteria": "2",
+            "companynumb": "US-PFIZER INC-2014068557",
+            "duplicate": "1",
+            "reportduplicate": {
+                "duplicatesource": "PFIZER",
+                "duplicatenumb": "US-PFIZER INC-2014068557"
+            },
+            "primarysource": {
+                "reportercountry": "US",
+                "qualification": "5"
+            },
+            "sender": {
+                "sendertype": "2",
+                "senderorganization": "FDA-Public Use"
+            },
+            "receiver": {
+                "receivertype": "6",
+                "receiverorganization": "FDA"
+            },
+            "patient": {
+                "patientonsetage": "84",
+                "patientonsetageunit": "801",
+                "patientweight": "72.56",
+                "patientsex": "2",
+                "reaction": [
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Drug effect incomplete",
+                        "reactionoutcome": "6"
+                    }
+                ],
+                "drug": [
+                    {
+                        "drugcharacterization": "1",
+                        "medicinalproduct": "ADVIL",
+                        "drugauthorizationnumb": "018989",
+                        "drugdosagetext": "UNK",
+                        "drugindication": "PAIN",
+                        "actiondrug": "5"
+                    }
+                ]
+            }
+        },
+        {
+            "safetyreportversion": "1",
+            "safetyreportid": "10006677",
+            "primarysourcecountry": "US",
+            "occurcountry": "US",
+            "transmissiondateformat": "102",
+            "transmissiondate": "20141002",
+            "reporttype": "1",
+            "serious": "2",
+            "receivedateformat": "102",
+            "receivedate": "20140313",
+            "receiptdateformat": "102",
+            "receiptdate": "20140313",
+            "fulfillexpeditecriteria": "2",
+            "companynumb": "US-PFIZER INC-2014068440",
+            "duplicate": "1",
+            "reportduplicate": {
+                "duplicatesource": "PFIZER",
+                "duplicatenumb": "US-PFIZER INC-2014068440"
+            },
+            "primarysource": {
+                "reportercountry": "US",
+                "qualification": "5"
+            },
+            "sender": {
+                "sendertype": "2",
+                "senderorganization": "FDA-Public Use"
+            },
+            "receiver": {
+                "receivertype": "6",
+                "receiverorganization": "FDA"
+            },
+            "patient": {
+                "patientonsetage": "73",
+                "patientonsetageunit": "801",
+                "patientweight": "49.89",
+                "patientsex": "2",
+                "reaction": [
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Dysgeusia",
+                        "reactionoutcome": "6"
+                    },
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Product taste abnormal",
+                        "reactionoutcome": "6"
+                    }
+                ],
+                "drug": [
+                    {
+                        "drugcharacterization": "1",
+                        "medicinalproduct": "ADVIL",
+                        "drugbatchnumb": "H3154H",
+                        "drugauthorizationnumb": "018989",
+                        "drugstructuredosagenumb": "200",
+                        "drugstructuredosageunit": "003",
+                        "drugseparatedosagenumb": "1",
+                        "drugintervaldosageunitnumb": "2",
+                        "drugintervaldosagedefinition": "804",
+                        "drugdosagetext": "200 MG, EVERY OTHER NIGHT",
+                        "drugdosageform": "TABLET",
+                        "drugadministrationroute": "048",
+                        "drugindication": "PAIN",
+                        "drugstartdateformat": "602",
+                        "drugstartdate": "2013",
+                        "actiondrug": "4"
+                    }
+                ]
+            }
+        },
+        {
+            "safetyreportversion": "1",
+            "safetyreportid": "10007157",
+            "primarysourcecountry": "US",
+            "occurcountry": "US",
+            "transmissiondateformat": "102",
+            "transmissiondate": "20141002",
+            "reporttype": "1",
+            "serious": "2",
+            "receivedateformat": "102",
+            "receivedate": "20140313",
+            "receiptdateformat": "102",
+            "receiptdate": "20140313",
+            "fulfillexpeditecriteria": "2",
+            "companynumb": "US-PFIZER INC-2014068655",
+            "duplicate": "1",
+            "reportduplicate": {
+                "duplicatesource": "PFIZER",
+                "duplicatenumb": "US-PFIZER INC-2014068655"
+            },
+            "primarysource": {
+                "reportercountry": "US",
+                "qualification": "5"
+            },
+            "sender": {
+                "sendertype": "2",
+                "senderorganization": "FDA-Public Use"
+            },
+            "receiver": {
+                "receivertype": "6",
+                "receiverorganization": "FDA"
+            },
+            "patient": {
+                "patientsex": "2",
+                "reaction": [
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Insomnia",
+                        "reactionoutcome": "6"
+                    }
+                ],
+                "drug": [
+                    {
+                        "drugcharacterization": "1",
+                        "medicinalproduct": "ADVIL",
+                        "drugauthorizationnumb": "018989",
+                        "drugdosagetext": "UNK",
+                        "actiondrug": "5"
+                    }
+                ]
+            }
+        },
+        {
+            "safetyreportversion": "2",
+            "safetyreportid": "10007445",
+            "primarysourcecountry": "GB",
+            "occurcountry": "GB",
+            "transmissiondateformat": "102",
+            "transmissiondate": "20141002",
+            "reporttype": "2",
+            "serious": "1",
+            "seriousnesshospitalization": "1",
+            "receivedateformat": "102",
+            "receivedate": "20140313",
+            "receiptdateformat": "102",
+            "receiptdate": "20140321",
+            "fulfillexpeditecriteria": "1",
+            "companynumb": "GB-PFIZER INC-2014064320",
+            "duplicate": "1",
+            "reportduplicate": {
+                "duplicatesource": "PFIZER",
+                "duplicatenumb": "GB-PFIZER INC-2014064320"
+            },
+            "primarysource": {
+                "reportercountry": "GB",
+                "qualification": "1"
+            },
+            "sender": {
+                "sendertype": "2",
+                "senderorganization": "FDA-Public Use"
+            },
+            "receiver": {
+                "receivertype": "6",
+                "receiverorganization": "FDA"
+            },
+            "patient": {
+                "patientonsetage": "80",
+                "patientonsetageunit": "801",
+                "patientsex": "1",
+                "reaction": [
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Gastroenteritis viral",
+                        "reactionoutcome": "1"
+                    }
+                ],
+                "drug": [
+                    {
+                        "drugcharacterization": "1",
+                        "medicinalproduct": "IBUPROFEN",
+                        "drugauthorizationnumb": "018989",
+                        "drugstructuredosagenumb": "200",
+                        "drugstructuredosageunit": "003",
+                        "drugseparatedosagenumb": "3",
+                        "drugintervaldosageunitnumb": "1",
+                        "drugintervaldosagedefinition": "804",
+                        "drugdosagetext": "200 MG, 3X/DAY",
+                        "drugadministrationroute": "048",
+                        "drugindication": "RHEUMATOID ARTHRITIS",
+                        "drugstartdateformat": "102",
+                        "drugstartdate": "20100426",
+                        "actiondrug": "4"
+                    }
+                ]
+            }
+        },
+        {
+            "safetyreportversion": "1",
+            "safetyreportid": "10012283",
+            "primarysourcecountry": "US",
+            "occurcountry": "US",
+            "transmissiondateformat": "102",
+            "transmissiondate": "20141002",
+            "reporttype": "1",
+            "serious": "2",
+            "receivedateformat": "102",
+            "receivedate": "20140312",
+            "receiptdateformat": "102",
+            "receiptdate": "20140312",
+            "fulfillexpeditecriteria": "2",
+            "companynumb": "US-PFIZER INC-2014066675",
+            "duplicate": "1",
+            "reportduplicate": {
+                "duplicatesource": "PFIZER",
+                "duplicatenumb": "US-PFIZER INC-2014066675"
+            },
+            "primarysource": {
+                "reportercountry": "US",
+                "qualification": "5"
+            },
+            "sender": {
+                "sendertype": "2",
+                "senderorganization": "FDA-Public Use"
+            },
+            "receiver": {
+                "receivertype": "6",
+                "receiverorganization": "FDA"
+            },
+            "patient": {
+                "patientsex": "1",
+                "reaction": [
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Oropharyngeal pain",
+                        "reactionoutcome": "3"
+                    },
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Abdominal pain upper",
+                        "reactionoutcome": "3"
+                    },
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Dyspepsia",
+                        "reactionoutcome": "3"
+                    }
+                ],
+                "drug": [
+                    {
+                        "drugcharacterization": "1",
+                        "medicinalproduct": "ADVIL",
+                        "drugauthorizationnumb": "018989",
+                        "drugstructuredosagenumb": "2",
+                        "drugstructuredosageunit": "032",
+                        "drugdosagetext": "TWO FILM-COATED, UNK",
+                        "drugdosageform": "TABLET",
+                        "drugstartdateformat": "102",
+                        "drugstartdate": "20140301",
+                        "actiondrug": "5"
+                    }
+                ]
+            }
+        },
+        {
+            "safetyreportversion": "1",
+            "safetyreportid": "10012430",
+            "primarysourcecountry": "US",
+            "occurcountry": "US",
+            "transmissiondateformat": "102",
+            "transmissiondate": "20141002",
+            "reporttype": "1",
+            "serious": "2",
+            "receivedateformat": "102",
+            "receivedate": "20140312",
+            "receiptdateformat": "102",
+            "receiptdate": "20140312",
+            "fulfillexpeditecriteria": "2",
+            "companynumb": "US-PFIZER INC-2014067799",
+            "duplicate": "1",
+            "reportduplicate": {
+                "duplicatesource": "PFIZER",
+                "duplicatenumb": "US-PFIZER INC-2014067799"
+            },
+            "primarysource": {
+                "reportercountry": "US",
+                "qualification": "5"
+            },
+            "sender": {
+                "sendertype": "2",
+                "senderorganization": "FDA-Public Use"
+            },
+            "receiver": {
+                "receivertype": "6",
+                "receiverorganization": "FDA"
+            },
+            "patient": {
+                "patientonsetage": "73",
+                "patientonsetageunit": "801",
+                "patientweight": "81.63",
+                "patientsex": "2",
+                "reaction": [
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Drug ineffective",
+                        "reactionoutcome": "6"
+                    },
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Arthritis",
+                        "reactionoutcome": "6"
+                    },
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Thyroid disorder",
+                        "reactionoutcome": "6"
+                    }
+                ],
+                "drug": [
+                    {
+                        "drugcharacterization": "1",
+                        "medicinalproduct": "IBUPROFEN",
+                        "drugauthorizationnumb": "018989",
+                        "drugstructuredosagenumb": "800",
+                        "drugstructuredosageunit": "003",
+                        "drugdosagetext": "800 MG, UNK",
+                        "drugindication": "ARTHRITIS",
+                        "actiondrug": "1"
+                    },
+                    {
+                        "drugcharacterization": "1",
+                        "medicinalproduct": "IBUPROFEN",
+                        "drugauthorizationnumb": "018989",
+                        "drugdosagetext": "UNK",
+                        "drugindication": "SPONDYLITIS",
+                        "drugenddateformat": "602",
+                        "drugenddate": "2014",
+                        "actiondrug": "1"
+                    },
+                    {
+                        "drugcharacterization": "2",
+                        "medicinalproduct": "XANAX",
+                        "drugdosagetext": "UNK, AS NEEDED",
+                        "drugindication": "ANXIETY"
+                    }
+                ]
+            }
+        },
+        {
+            "safetyreportversion": "1",
+            "safetyreportid": "10012515",
+            "primarysourcecountry": "US",
+            "occurcountry": "US",
+            "transmissiondateformat": "102",
+            "transmissiondate": "20141002",
+            "reporttype": "1",
+            "serious": "2",
+            "receivedateformat": "102",
+            "receivedate": "20140312",
+            "receiptdateformat": "102",
+            "receiptdate": "20140312",
+            "fulfillexpeditecriteria": "2",
+            "companynumb": "US-PFIZER INC-2014068693",
+            "duplicate": "1",
+            "reportduplicate": {
+                "duplicatesource": "PFIZER",
+                "duplicatenumb": "US-PFIZER INC-2014068693"
+            },
+            "primarysource": {
+                "reportercountry": "US",
+                "qualification": "5"
+            },
+            "sender": {
+                "sendertype": "2",
+                "senderorganization": "FDA-Public Use"
+            },
+            "receiver": {
+                "receivertype": "6",
+                "receiverorganization": "FDA"
+            },
+            "patient": {
+                "patientsex": "2",
+                "reaction": [
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Malaise",
+                        "reactionoutcome": "6"
+                    }
+                ],
+                "drug": [
+                    {
+                        "drugcharacterization": "1",
+                        "medicinalproduct": "ADVIL",
+                        "drugauthorizationnumb": "018989",
+                        "drugdosagetext": "UNK",
+                        "drugindication": "DENTAL CARE",
+                        "drugstartdateformat": "102",
+                        "drugstartdate": "20140307",
+                        "actiondrug": "5"
+                    },
+                    {
+                        "drugcharacterization": "1",
+                        "medicinalproduct": "LORATADINE",
+                        "drugauthorizationnumb": "021375",
+                        "drugdosagetext": "UNK",
+                        "drugindication": "HYPERSENSITIVITY",
+                        "actiondrug": "5"
+                    }
+                ]
+            }
+        },
+        {
+            "safetyreportversion": "1",
+            "safetyreportid": "10012763",
+            "primarysourcecountry": "US",
+            "occurcountry": "US",
+            "transmissiondateformat": "102",
+            "transmissiondate": "20141002",
+            "reporttype": "1",
+            "serious": "1",
+            "seriousnessother": "1",
+            "receivedateformat": "102",
+            "receivedate": "20140314",
+            "receiptdateformat": "102",
+            "receiptdate": "20140314",
+            "fulfillexpeditecriteria": "1",
+            "companynumb": "US-PFIZER INC-2014070828",
+            "duplicate": "1",
+            "reportduplicate": {
+                "duplicatesource": "PFIZER",
+                "duplicatenumb": "US-PFIZER INC-2014070828"
+            },
+            "primarysource": {
+                "reportercountry": "US",
+                "qualification": "5"
+            },
+            "sender": {
+                "sendertype": "2",
+                "senderorganization": "FDA-Public Use"
+            },
+            "receiver": {
+                "receivertype": "6",
+                "receiverorganization": "FDA"
+            },
+            "patient": {
+                "patientonsetage": "71",
+                "patientonsetageunit": "801",
+                "patientweight": "77.1",
+                "patientsex": "2",
+                "reaction": [
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Back disorder",
+                        "reactionoutcome": "6"
+                    },
+                    {
+                        "reactionmeddraversionpt": "17.0",
+                        "reactionmeddrapt": "Procedural pain",
+                        "reactionoutcome": "6"
+                    }
+                ],
+                "drug": [
+                    {
+                        "drugcharacterization": "1",
+                        "medicinalproduct": "ADVIL",
+                        "drugauthorizationnumb": "018989",
+                        "drugdosagetext": "UNK",
+                        "drugdosageform": "TABLET",
+                        "drugindication": "HEADACHE",
+                        "actiondrug": "5"
+                    }
+                ]
+            }
+        }
+    ]
+}
