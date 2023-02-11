@@ -127,4 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-data/2022*
+images/
